@@ -1,0 +1,14 @@
+{
+  "name": "toez-server",
+  "version": "1.0.0",
+  "description": "backend for toez app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
